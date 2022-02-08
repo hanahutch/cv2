@@ -7,7 +7,7 @@
 
 ![mountain](mountain.png)
 
-![Hana Profile](Hana profile-modified.png)
+![Hana Profile](Hana%20profile-modified.png)
 
 ## Hello.
 
